@@ -1,5 +1,16 @@
 # @react-pdf/render
 
+## 3.2.0
+
+### Minor Changes
+
+- [#1892](https://github.com/diegomura/react-pdf/pull/1892) [`035d3f8`](https://github.com/diegomura/react-pdf/commit/035d3f8d24fa4f4af9f350950d81b51547858367) Thanks [@diegomura](https://github.com/diegomura)! - feat: add skew transformation support
+
+### Patch Changes
+
+- Updated dependencies [[`37a9a74`](https://github.com/diegomura/react-pdf/commit/37a9a747f7677fa05e3ddf5669c0379aa65c1e39)]:
+  - @react-pdf/textkit@3.1.0
+
 ## 3.1.0
 
 ### Minor Changes
