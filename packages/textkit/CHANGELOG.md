@@ -1,5 +1,11 @@
 # @react-pdf/textkit
 
+## 3.1.0
+
+### Minor Changes
+
+- [#1895](https://github.com/diegomura/react-pdf/pull/1895) [`37a9a74`](https://github.com/diegomura/react-pdf/commit/37a9a747f7677fa05e3ddf5669c0379aa65c1e39) Thanks [@diegomura](https://github.com/diegomura)! - feat: exclude rects on textkit layout container
+
 ## 3.0.0
 
 ### Major Changes
